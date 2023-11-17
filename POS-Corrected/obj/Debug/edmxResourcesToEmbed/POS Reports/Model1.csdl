@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="pvModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="supplier">
+    <Key>
+      <PropertyRef Name="supplier_id" />
+    </Key>
+    <Property Name="supplier_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="fullname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="pinid" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="address" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="town" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="physicallocation" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="phone" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="contactperson" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="relationtype" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="deleted" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="pvEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="suppliers" EntityType="Self.supplier" />
+  </EntityContainer>
+</Schema>

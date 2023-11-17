@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SMARTEC POS", "POS-Corrected\SMARTEC POS.vbproj", "{F4A6F82E-265B-4ECF-8225-25B7790CCF5D}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Smartec", "Smartec\Smartec.isproj", "{D63CC7F7-50C2-4FE3-B72B-AADD69ABEE69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4A6F82E-265B-4ECF-8225-25B7790CCF5D}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A6F82E-265B-4ECF-8225-25B7790CCF5D}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{F4A6F82E-265B-4ECF-8225-25B7790CCF5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A6F82E-265B-4ECF-8225-25B7790CCF5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A6F82E-265B-4ECF-8225-25B7790CCF5D}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A6F82E-265B-4ECF-8225-25B7790CCF5D}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{F4A6F82E-265B-4ECF-8225-25B7790CCF5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A6F82E-265B-4ECF-8225-25B7790CCF5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A6F82E-265B-4ECF-8225-25B7790CCF5D}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A6F82E-265B-4ECF-8225-25B7790CCF5D}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{D63CC7F7-50C2-4FE3-B72B-AADD69ABEE69}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{D63CC7F7-50C2-4FE3-B72B-AADD69ABEE69}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{D63CC7F7-50C2-4FE3-B72B-AADD69ABEE69}.Debug|Any CPU.ActiveCfg = DVD-5
+		{D63CC7F7-50C2-4FE3-B72B-AADD69ABEE69}.Debug|Any CPU.Build.0 = DVD-5
+		{D63CC7F7-50C2-4FE3-B72B-AADD69ABEE69}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{D63CC7F7-50C2-4FE3-B72B-AADD69ABEE69}.DVD-5|Any CPU.Build.0 = DVD-5
+		{D63CC7F7-50C2-4FE3-B72B-AADD69ABEE69}.Release|Any CPU.ActiveCfg = SingleImage
+		{D63CC7F7-50C2-4FE3-B72B-AADD69ABEE69}.Release|Any CPU.Build.0 = SingleImage
+		{D63CC7F7-50C2-4FE3-B72B-AADD69ABEE69}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{D63CC7F7-50C2-4FE3-B72B-AADD69ABEE69}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

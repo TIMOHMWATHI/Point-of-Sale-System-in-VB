@@ -1,0 +1,350 @@
+D:\CAREER\POS\POS-Corrected\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\bin\Debug\POS-Corrected.exe
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\bin\Debug\POS-Corrected.pdb
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\bin\Debug\POS-Corrected.xml
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\obj\Debug\POS-Corrected.vbproj.GenerateResource.Cache
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\obj\Debug\POS-Corrected.exe
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\obj\Debug\POS-Corrected.xml
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\obj\Debug\POS-Corrected.pdb
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\obj\Debug\POS_Corrected.frm_out_of_stock.resources
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\obj\Debug\POS_Corrected.frmInventory.resources
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+D:\CAREER\POS - corrected\POS-Corrected\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\obj\Debug\POS-Corrected.exe
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\obj\Debug\POS-Corrected.xml
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\obj\Debug\POS-Corrected.pdb
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\bin\Debug\POS-Corrected.exe
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\bin\Debug\POS-Corrected.pdb
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\bin\Debug\POS-Corrected.xml
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\obj\Debug\POS_Corrected.frmInventory.resources
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\obj\Debug\POS_Corrected.frm_out_of_stock.resources
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\obj\Debug\POS-Corrected.vbproj.GenerateResource.Cache
+D:\CAREER\POS - corrected\POS-Corrected2\POS-Corrected\obj\Debug\POS_Corrected.frmReceivedStock.resources
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS-Corrected.exe
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS-Corrected.xml
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS-Corrected.pdb
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\bin\Debug\POS-Corrected.exe
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\bin\Debug\POS-Corrected.pdb
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\bin\Debug\POS-Corrected.xml
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS_Corrected.frmInventory.resources
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS_Corrected.frmReceivedStock.resources
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS_Corrected.frm_out_of_stock.resources
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS-Corrected.vbproj.GenerateResource.Cache
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS-Corrected.vbprojResolveAssemblyReference.cache
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS_Corrected.frmItems.resources
+D:\CAREER\POS - corrected\POS-Corrected3\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+H:\POS - corrected\POS-Corrected4\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS-Corrected.exe
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS-Corrected.xml
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS-Corrected.pdb
+G:\POS - corrected\POS-Corrected4\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS-Corrected.exe
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS-Corrected.xml
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS-Corrected.pdb
+G:\POS - corrected\POS-Corrected4\POS-Corrected\bin\Debug\POS-Corrected.exe
+G:\POS - corrected\POS-Corrected4\POS-Corrected\bin\Debug\POS-Corrected.pdb
+G:\POS - corrected\POS-Corrected4\POS-Corrected\bin\Debug\POS-Corrected.xml
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmInventory.resources
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmItems.resources
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmReceivedStock.resources
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmSupplierss.resources
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frm_out_of_stock.resources
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS-Corrected.vbproj.GenerateResource.Cache
+G:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS-Corrected.vbprojResolveAssemblyReference.cache
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS-Corrected.exe
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS-Corrected.xml
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS-Corrected.pdb
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\bin\Debug\POS-Corrected.exe
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\bin\Debug\POS-Corrected.pdb
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\bin\Debug\POS-Corrected.xml
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS-Corrected.vbprojResolveAssemblyReference.cache
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmInventory.resources
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmItems.resources
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmReceivedStock.resources
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmSupplierss.resources
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frm_out_of_stock.resources
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+D:\CAREER\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS-Corrected.vbproj.GenerateResource.Cache
+H:\POS - corrected\POS-Corrected4\POS-Corrected\bin\Debug\POS-Corrected.exe
+H:\POS - corrected\POS-Corrected4\POS-Corrected\bin\Debug\POS-Corrected.pdb
+H:\POS - corrected\POS-Corrected4\POS-Corrected\bin\Debug\POS-Corrected.xml
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS-Corrected.vbprojResolveAssemblyReference.cache
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmInventory.resources
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmItems.resources
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmReceivedStock.resources
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frmSupplierss.resources
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.frm_out_of_stock.resources
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+H:\POS - corrected\POS-Corrected4\POS-Corrected\obj\Debug\POS-Corrected.vbproj.GenerateResource.Cache
+H:\POS - corrected\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+H:\POS - corrected\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+H:\POS - corrected\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+H:\POS - corrected\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.vbprojResolveAssemblyReference.cache
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmInventory.resources
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmItems.resources
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReceivedStock.resources
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSupplierss.resources
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frm_out_of_stock.resources
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.vbproj.GenerateResource.Cache
+H:\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmUsers.resources
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.vbprojResolveAssemblyReference.cache
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmInventory.resources
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmItems.resources
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReceivedStock.resources
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSupplierss.resources
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmUsers.resources
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frm_out_of_stock.resources
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.vbproj.GenerateResource.Cache
+D:\CAREER\POS - corrected\POS - corrected\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+G:\POS - corrected\POS - corrected1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+G:\POS - corrected\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+G:\POS - corrected\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+G:\POS - corrected\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+G:\POS - corrected\POS - corrected1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+G:\POS - corrected\POS - corrected1\POS - Correc
+G:\POS - corrected1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+G:\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+G:\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+G:\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmInventory.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmMpesa.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmRecepts.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+C:\Users\ictmuthaiga\Downloads\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.vbproj.GenerateResource.Cache
+D:\TIMO IT\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+D:\TIMO IT\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+D:\TIMO IT\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+D:\TIMO IT\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmInventory.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmMpesa.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmRecepts.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.vbproj.GenerateResource.Cache
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected2\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected2\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected2\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected2\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmInventory.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmMpesa.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmRecepts.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+C:\Users\macharia\Desktop\POS - corrected1\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.vbproj.GenerateResource.Cache
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmInventory.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmMpesa.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmRecepts.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+E:\softwares\POS Corrected\POS - corrected3\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.vbproj.GenerateResource.Cache
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmMpesa.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmRecepts.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+E:\softwares\POS Corrected\POS - corrected4\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.vbproj.GenerateResource.Cache
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmMpesa.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmRecepts.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+E:\softwares\POS Corrected\POS - corrected5\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.vbproj.GenerateResource.Cache
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmMpesa.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmRecepts.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.vbproj.GenerateResource.Cache

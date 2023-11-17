@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="pvModelStoreContainer" CdmEntityContainer="pvEntities">
+    <EntitySetMapping Name="suppliers">
+      <EntityTypeMapping TypeName="pvModel.supplier">
+        <MappingFragment StoreEntitySet="suppliers">
+          <ScalarProperty Name="supplier_id" ColumnName="supplier_id" />
+          <ScalarProperty Name="fullname" ColumnName="fullname" />
+          <ScalarProperty Name="pinid" ColumnName="pinid" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="town" ColumnName="town" />
+          <ScalarProperty Name="physicallocation" ColumnName="physicallocation" />
+          <ScalarProperty Name="phone" ColumnName="phone" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="contactperson" ColumnName="contactperson" />
+          <ScalarProperty Name="relationtype" ColumnName="relationtype" />
+          <ScalarProperty Name="deleted" ColumnName="deleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

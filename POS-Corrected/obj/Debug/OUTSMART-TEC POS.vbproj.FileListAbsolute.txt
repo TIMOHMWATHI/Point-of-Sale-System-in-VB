@@ -1,0 +1,298 @@
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmMpesa.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmRecepts.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbproj.GenerateResource.Cache
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\POS - corrected6\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\bin\Debug\EntityFramework.xml
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbprojResolveAssemblyReference.cache
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmChangePassword.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCustomersDialog.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmEmail.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmpayment.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPricelist.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmRecepts.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmViewPlacedOrder.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbproj.GenerateResource.Cache
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSimpleDeliveries.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmWastes.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditors.resources
+E:\softwares\POS Corrected\OUTSMART-TEC POS6\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPayCredits.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmChangePassword.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCustomersDialog.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmEmail.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPayCredits.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditors.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmpayment.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPricelist.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmRecepts.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSimpleDeliveries.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmViewPlacedOrder.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmWastes.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbproj.GenerateResource.Cache
+E:\softwares\POS Corrected\OUTSMART-TEC LATEST\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbprojResolveAssemblyReference.cache
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbprojResolveAssemblyReference.cache
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmChangePassword.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCustomersDialog.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmEmail.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPayCredits.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditors.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmpayment.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPricelist.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmRecepts.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSimpleDeliveries.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmViewPlacedOrder.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmWastes.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+E:\softwares\POS Corrected\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbproj.GenerateResource.Cache
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmChangePassword.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCustomersDialog.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmEmail.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPayCredits.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditors.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmpayment.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPricelist.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSimpleDeliveries.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmViewPlacedOrder.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmWastes.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbproj.GenerateResource.Cache
+E:\softwares\SMARTEC\SMARTEC POS1\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbprojResolveAssemblyReference.cache
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmChangePassword.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCustomersDialog.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmEmail.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPayCredits.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditors.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmpayment.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPricelist.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSimpleDeliveries.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmViewPlacedOrder.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmWastes.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbproj.GenerateResource.Cache
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+E:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbprojResolveAssemblyReference.cache
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbprojResolveAssemblyReference.cache
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmChangePassword.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCustomersDialog.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmEmail.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPayCredits.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditors.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmpayment.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPricelist.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSimpleDeliveries.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmViewPlacedOrder.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmWastes.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbproj.GenerateResource.Cache
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmAdjustStock.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmChangePassword.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCustomersDialog.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmEmail.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPayCredits.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditors.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmpayment.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPricelist.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSimpleDeliveries.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmViewPlacedOrder.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmWastes.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbproj.GenerateResource.Cache
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-05\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbprojResolveAssemblyReference.cache
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.pdb
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.xml
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbprojResolveAssemblyReference.cache
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmAdjustStock.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCalculator.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCashGenerator.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmChangePassword.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditSales.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCustomersDialog.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmEmail.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPayCredits.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmCreditors.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmpayment.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmPricelist.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductsOrder.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmproducts.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmLogin.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmProductDelivery.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmReports.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSales.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSimpleDeliveries.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmSuppliers.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmStaff.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmOutofStock.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmViewPlacedOrder.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.frmWastes.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.mdiAdmin.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\POS_Corrected.Resources.resources
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-18\POS - Corrected1\POS-Corrected\obj\Debug\OUTSMART-TEC POS.vbproj.GenerateResource.Cache
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-28\POS - Corrected1\POS-Corrected\bin\Debug\POS-Corrected.exe.config
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-28\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.exe
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-28\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.xml
+D:\softwares\SMARTEC\SMARTEC POS latest version 2019-02-28\POS - Corrected1\POS-Corrected\obj\Debug\POS-Corrected.pdb
